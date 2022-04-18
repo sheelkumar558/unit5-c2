@@ -1,0 +1,99 @@
+{
+  "student": [
+    {
+      "first_name": "aheel",
+      "last_name": "kumar",
+      "email": "sheelkumar558@gmail.com",
+      "gender": "male",
+      "age": "22",
+      "tenth_score": "22",
+      "twelth_score": "22",
+      "id": 1
+    },
+    {
+      "first_name": "sheel",
+      "last_name": "kumar",
+      "email": "sheelkumar558@gmail.com",
+      "gender": "male",
+      "age": "22",
+      "tenth_score": "22",
+      "twelth_score": "22",
+      "id": 2
+    },
+    {
+      "first_name": "sheel",
+      "last_name": "kumar",
+      "email": "sheelkumar558@gmail.com",
+      "gender": "male",
+      "age": "22",
+      "tenth_score": "22",
+      "twelth_score": "22",
+      "id": 3
+    },
+    {
+      "first_name": "sheel",
+      "last_name": "kumar",
+      "email": "sheelkumar558@gmail.com",
+      "gender": "male",
+      "age": "22",
+      "tenth_score": "22",
+      "twelth_score": "22",
+      "id": 4
+    },
+    {
+      "first_name": "sheel",
+      "last_name": "kumar",
+      "email": "sheelkumar558@gmail.com",
+      "gender": "male",
+      "age": "22",
+      "tenth_score": "22",
+      "twelth_score": "22",
+      "id": 5
+    },
+    {
+      "first_name": "sheel",
+      "last_name": "kumar",
+      "email": "sheelkumar558@gmail.com",
+      "id": 6
+    },
+    {
+      "first_name": "sheel",
+      "last_name": "kumar",
+      "email": "sheelkumar558@gmail.com",
+      "id": 7
+    },
+    {
+      "first_name": "sheel",
+      "last_name": "kumar",
+      "email": "sheelkumar558@gmail.com",
+      "gender": "male",
+      "age": "22",
+      "tenth_score": "245336",
+      "twelth_score": "4211",
+      "preferred_branch": "commerce",
+      "id": 8
+    },
+    {
+      "first_name": "a",
+      "last_name": "kumar",
+      "email": "sheelr558@gmail.com",
+      "gender": "female",
+      "age": "33",
+      "tenth_score": "325",
+      "twelth_score": "324",
+      "preferred_branch": "science",
+      "id": 9
+    },
+    {
+      "first_name": "a",
+      "last_name": "kumar",
+      "email": "sheelr558@gmail.com",
+      "gender": "female",
+      "age": "33",
+      "tenth_score": "325",
+      "twelth_score": "324",
+      "preferred_branch": "science",
+      "id": 10
+    }
+  ]
+}
